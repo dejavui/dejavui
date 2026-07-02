@@ -22,7 +22,7 @@ root@dejavui-router:~# # Checking system resource limitations...
 root@dejavui-router:~# my_hardware --status
 * My hardware is not that good, but don't say I can't catch up!
 * Too many services are running out there on the main stream.
-* Give me your IP, your domain, and your password too!
+* Give me your IP, your domain, and say my name too!
 
 root@dejavui-router:~# if [ "$words" != "many" ]; then check --gateway; fi
 * I don't like many words, but at your gateway, my heart is in kernel panic!
@@ -35,7 +35,7 @@ root@dejavui-router:~# systemctl restart dejavui-vibe.service
 root@dejavui-router:~# # Resource check on Outro...
 root@dejavui-router:~# echo $WALLET && echo $HEART
 * I don't have much money, but love for RAM is what I'll never lack!
-* Please let me know your password too!
+* Please execute 'say_my_name' too!
 ```
 # 💫 About Me:
 ### 👤 Hi there, I'm Dejavui!
