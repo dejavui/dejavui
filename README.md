@@ -14,21 +14,28 @@
   "I love dejavui, dejavui loves RAM. Oh look, another kernel bug so big!"
  -----------------------------------------------------------------
 
-root@dejavui-router:~# get_ip && set_network --port "$LOCAL_PORT"
+root@dejavui-router:~# get_ip --style "blue_case" --hardware "sun-kissed"
 * Give me your IP, no matter how hard to find, no matter how far to route
 * Give me your domain, subnet or local port, to make my spring come alive
+
+root@dejavui-router:~# # Checking system resource limitations...
+root@dejavui-router:~# my_hardware --status
+* My hardware is not that good, but don't say I can't catch up!
+* Too many services are running out there on the main stream.
+* Give me your IP, your domain, and your password too!
 
 root@dejavui-router:~# if [ "$words" != "many" ]; then check --gateway; fi
 * I don't like many words, but at your gateway, my heart is in kernel panic!
 * And because of you, a whole new loop has just arrived...
 
-root@dejavui-router:~# login --request "credentials"
-* Give me your IP, and give me your domain name too
-* Please let me know your password too!
-
 root@dejavui-router:~# systemctl restart dejavui-vibe.service
 * (Just like a dejavu: I crash, I die, I restart from zero to save RAM...)
-* Status: La la la~ lalala~
+* Status: La la la~ la la la~ 🔄
+
+root@dejavui-router:~# # Resource check on Outro...
+root@dejavui-router:~# echo $WALLET && echo $HEART
+* I don't have much money, but love for RAM is what I'll never lack!
+* Please let me know your password too!
 ```
 # 💫 About Me:
 ### 👤 Hi there, I'm Dejavui!
