@@ -1,12 +1,49 @@
+### 🌐 `root@localhost:~# ssh dejavui@router`
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dejavui&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dejavui&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dejavui&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+```text
+  ______   _______        ___  _______  __   __  __   __  ___ 
+ |      | |       |      |   ||   _   ||  | |  ||  | |  ||   |
+ |  _    ||    ___|      |   ||  |_|  ||  |_|  ||  | |  ||   |
+ | | |   ||   |___       |   ||       ||       ||  |_|  ||   |
+ | |_|   ||    ___| ___  |   ||       ||       ||       ||   |
+ |       ||   |___ |   |_|   ||   _   | |     | |       ||   |
+ |______| |_______||_________||__| |__|  |___|   |_______||___|
+ -----------------------------------------------------------------
+          N O    E X T E N S I O N   |   B Y   D E J A V U I
+ -----------------------------------------------------------------
+  "I love dejavui, dejavui loves RAM. Oh look, another kernel bug so big!"
+ -----------------------------------------------------------------
+```
+# 💫 About Me:
+### 👤 Hi there, I'm Dejavui!
+
+Just a casual tech enthusiast and open-source tinkerer who loves (fine-tuning) everything to its absolute limit. I don't consider myself a "pro," but I enjoy the chaos of making things work perfectly together.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dejavui&icon=7&color=10)](https://visitcount.itsvg.in)
+
+### ⚙️ What's in my Playground?
+
+* 🌐 OS / Route: OpenWrt (10+ years) | 1Gbps Fiber Tuned (Sky Package).
+* 🐧 Stack: Docker | LXC | Linux | What is my Windows is Dejavui?
+* ☕ Code / Patch: A bit of Kotlin & Java (Keiyoushi, Suwa forks).
+* 🎵 MPD (Music Player Daemon) + ALSA via Jack 3.5mm.
+
+---
+
+### 🚀 Philosophy
+*"Jack of all trades, master of none, but oftentimes better than a master of one."*
+I self-host, I break things, I fix things, and I ensure my home network can crush any bloated enterprise router any day.
+
+---
+[WAIT] Re:Zero New Season Next Episodes... 🍿
+
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
+# 📊 GitHub Stats:
+![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dejavui&theme=transparent)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dejavui&theme=transparent)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=dejavui&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
