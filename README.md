@@ -35,7 +35,7 @@ root@dejavui-router:~# systemctl restart dejavui-vibe.service
 root@dejavui-router:~# # Resource check on Outro...
 root@dejavui-router:~# echo $WALLET && echo $HEART
 * I don't have much money, but love for RAM is what I'll never lack!
-* Please execute 'say_my_name' too!
+* Please execute 'say_my_name' to trigger the endless loop from zero...
 ```
 # 💫 About Me:
 ### 👤 Hi there, I'm Dejavui!
