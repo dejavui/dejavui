@@ -64,8 +64,6 @@ I self-host, I break things, I fix things, and I ensure my home network can crus
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
 # 📊 GitHub Stats:
-![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dejavui&theme=transparent)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dejavui&theme=transparent)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=dejavui&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
